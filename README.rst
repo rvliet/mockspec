@@ -49,3 +49,8 @@ the errors and assumptions that seasoned contributors have glossed over.
 `PyCon talk <https://www.youtube.com/watch?v=6Uj746j9Heo>`_, and was adapted by
 mockspec based on its use in the README file for the
 `MetPy project <https://github.com/Unidata/MetPy>`_.*
+
+
+Description
+-----------
+A total rewrite of the Mockspec code base
